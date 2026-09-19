@@ -61,7 +61,7 @@ export default function Footer() {
       <div className="bfd-footer__bottom">
         <div className="bfd-footer__bottom-inner">
           <p>&copy; {year} BigFoot Drafting. All rights reserved.</p>
-          <p>Licensed drafting services — Vancouver, WA & Clark County</p>
+          <p>Drafting services — Vancouver, WA & Clark County</p>
         </div>
       </div>
     </footer>
