@@ -61,7 +61,7 @@ export default function Footer() {
       <div className="bfd-footer__bottom">
         <div className="bfd-footer__bottom-inner">
           <p>&copy; {year} BigFoot Drafting. All rights reserved.</p>
-          <p>Licensed drafting services — Pacific Northwest</p>
+          <p>Drafting services — Pacific Northwest</p>
         </div>
       </div>
     </footer>
