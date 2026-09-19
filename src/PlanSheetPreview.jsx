@@ -71,7 +71,7 @@ export default function PlanSheetPreview() {
         aria-haspopup="dialog"
       >
         {
-          <img src="public\plans\samplePlan.png" className="bfd-sheet-preview__img" alt="Sample floor plan sheet showing room layout and dimensions"/>
+          <img src="public/splans/samplePlan.png" className="bfd-sheet-preview__img" alt="Sample floor plan sheet showing room layout and dimensions"/>
         }
         {/* <svg className="bfd-sheet-preview__icon" viewBox="0 0 120 80" aria-hidden="true">
           <rect x="4" y="4" width="112" height="72" fill="none" stroke="currentColor" strokeWidth="2" />
@@ -112,7 +112,7 @@ export default function PlanSheetPreview() {
 
               {
                 // TODO: Replace with your real sheet at full size.
-                <iframe src="public\plans\SamplePlan.pdf" title="Sample plan sheet" className="bfd-sheet-modal__pdf" />
+                <iframe src="public/plans/SamplePlan.pdf" title="Sample plan sheet" className="bfd-sheet-modal__pdf" />
               }
               {/* <svg className="bfd-sheet-modal__icon" viewBox="0 0 120 80" aria-hidden="true">
                 <rect x="4" y="4" width="112" height="72" fill="none" stroke="currentColor" strokeWidth="1.5" />
