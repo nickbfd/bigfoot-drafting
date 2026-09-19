@@ -76,6 +76,7 @@ export default function Header() {
             <circle cx="13.5" cy="2.2" r="1.45" />
             <circle cx="15.7" cy="3" r="1.75" />
           </svg>
+          {/* <img src="/Logo/BigFootHeaderImage.png" alt="BigFoot Drafting" width="20%" height="20%" /> */}
           <span>BigFoot Drafting</span>
         </Link>
 

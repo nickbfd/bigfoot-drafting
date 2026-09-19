@@ -30,15 +30,16 @@ export default function About() {
     <section className="bfd-services">
       <div className="bfd-services__inner">
         <Seo
-          title="About"
-          description="Meet Nick, the drafter behind BigFoot Drafting — 10+ years creating custom and production plan sets for homeowners and builders across the Pacific Northwest."
+          title="About BigFoot Drafting | Vancouver, WA"
+          description="Meet Nick, the drafter behind BigFoot Drafting — 10+ years creating custom and production plan sets for homeowners and builders in Vancouver, WA and Clark County."
         />
         <h1>About BigFoot Drafting</h1>
         <p className="bfd-services__lead">
           I'm Nick, the drafter behind BigFoot Drafting. For over 10 years,
           I've worked with homeowners and contractors — from one-off custom
           remodels to production plans for larger builders — creating
-          complete, permit-ready plan sets across the Pacific Northwest.
+          complete, permit-ready plan sets for Vancouver, WA and Clark
+          County.
         </p>
 
         <div className="bfd-services__list">
@@ -55,8 +56,8 @@ export default function About() {
           <p>
             The name comes from wanting the business to feel rooted in the
             Pacific Northwest, and from wanting to make a big impact on the
-            drafting and permitting experience here in Southwest
-            Washington — plans that are accurate, thorough, and built to
+            drafting and permitting experience here in Vancouver, WA and
+            Clark County — plans that are accurate, thorough, and built to
             get through review.
           </p>
         </div>

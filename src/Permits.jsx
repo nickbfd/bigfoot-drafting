@@ -30,13 +30,15 @@ export default function Permits() {
     <section className="bfd-services">
       <div className="bfd-services__inner">
         <Seo
-          title="Permit Services"
-          description="Permit application preparation and submission for jurisdictions in Southwest Washington."
+          title="Permit Services in Vancouver, WA & Clark County"
+          description="Permit application preparation and submission for jurisdictions across Clark County, WA — including Vancouver, Camas, Battle Ground, Ridgefield, Washougal, La Center, and Brush Prairie."
         />
         <h1>Permit Services</h1>
         <p className="bfd-services__lead">
           We prepare, submit, and track your permit application with your
-          local jurisdiction, currently serving Southwest Washington.
+          local jurisdiction, currently serving Vancouver, Camas, Battle
+          Ground, Ridgefield, Washougal, La Center, Brush Prairie, and the
+          rest of Clark County, WA.
         </p>
 
         <h2 className="bfd-services__subhead">What's Included</h2>
@@ -62,8 +64,9 @@ export default function Permits() {
         <div className="bfd-services__engineering">
           <h2>Service Area</h2>
           <p>
-            We currently provide permit services for jurisdictions in
-            Southwest Washington.
+            We currently provide permit services for jurisdictions in Clark
+            County, WA — including Vancouver, Camas, Battle Ground,
+            Ridgefield, Washougal, La Center, and Brush Prairie.
           </p>
         </div>
 

@@ -54,14 +54,15 @@ export default function AsBuilt() {
     <section className="bfd-services">
       <div className="bfd-services__inner">
         <Seo
-          title="As-Built Drawings"
-          description="Accurate as-built drawings from an in-person field measure — the foundation for your remodel, addition, or permit application."
+          title="As-Built Drawings in Vancouver, WA & Clark County"
+          description="Accurate as-built drawings from an in-person field measure, serving Vancouver, WA and Clark County — the foundation for your remodel, addition, or permit application."
         />
         <h1>As-Built Drawings</h1>
         <p className="bfd-services__lead">
-          Accurate documentation of your home as it exists today — the
-          starting point for a remodel, addition, or any project that needs
-          a reliable record of current conditions.
+          Accurate documentation of your home as it exists today, serving
+          Vancouver, WA and Clark County — the starting point for a
+          remodel, addition, or any project that needs a reliable record
+          of current conditions.
         </p>
 
         <h2 className="bfd-services__subhead">Why You Might Need One</h2>

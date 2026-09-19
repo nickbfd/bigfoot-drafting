@@ -39,8 +39,8 @@ export default function Services() {
     <section className="bfd-services">
       <div className="bfd-services__inner">
         <Seo
-          title="Drafting Services"
-          description="Full construction drawing sets — floor plans, elevations, sections, foundation and framing plans — for residential remodels and additions in the Pacific Northwest."
+          title="Drafting Services in Vancouver, WA & Clark County"
+          description="Full construction drawing sets — floor plans, elevations, sections, foundation and framing plans — for residential remodels, additions, and home design in Vancouver, WA and Clark County."
         />
         <h1>Drafting Services</h1>
         <p className="bfd-services__lead">

@@ -6,8 +6,8 @@ export default function Home() {
   return (
     <>
       <Seo
-        title={null}
-        description="Residential drafting for remodels and additions across the Pacific Northwest — permit-ready plans, as-built drawings, and fast code violation response."
+        title="Residential Drafting & Home Design in Vancouver, WA"
+        description="Residential drafting and home design in Vancouver, WA and Clark County — permit-ready plans, as-built drawings, and fast code violation response for Camas, Battle Ground, Ridgefield, Washougal, La Center, and Brush Prairie."
       />
       <Hero />
     </>

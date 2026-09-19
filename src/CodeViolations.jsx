@@ -30,14 +30,15 @@ export default function CodeViolations() {
     <section className="bfd-services">
       <div className="bfd-services__inner">
         <Seo
-          title="Code Violation Response"
-          description="Fast-tracked plans for unpermitted work flagged by your jurisdiction — get compliant before fees add up."
+          title="Code Violation Response in Clark County, WA"
+          description="Fast-tracked plans for unpermitted work flagged by your Clark County jurisdiction — get compliant before fees add up. Serving Vancouver, Camas, Battle Ground, and surrounding areas."
         />
         <span className="bfd-hero__tag">Fast Turnaround</span>
         <h1>Code Violation Response</h1>
         <p className="bfd-services__lead">
-          Got a notice for unpermitted work? We fast-track your plans so you
-          can get compliant and close out the violation before fees add up.
+          Got a notice for unpermitted work in Clark County? We fast-track
+          your plans so you can get compliant and close out the violation
+          before fees add up.
         </p>
 
         <div className="bfd-services__engineering">
