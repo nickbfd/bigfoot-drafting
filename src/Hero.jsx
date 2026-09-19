@@ -31,14 +31,14 @@ export default function Hero() {
         <div className="bfd-hero__main">
           <div className="bfd-hero__brand">
             {/* Footprint mark — left foot */}
-            <svg viewBox="0 0 24 24" aria-hidden="true">
+            {/* <svg viewBox="0 0 24 24" aria-hidden="true">
               <path d="M12 5c2.5 0 4.5 1.1 4.5 3.2 0 1.3-.5 2.6-.3 4.1.2 1.7 1.1 3.2 1.3 5.1.3 2.7-1.5 5-4.2 5.2h-1.6c-2.7-.2-4.5-2.5-4.2-5.2.2-1.9 1.1-3.4 1.3-5.1.2-1.5-.3-2.8-.3-4.1C7.5 6.1 9.5 5 12 5z" />
               <circle cx="7.3" cy="4.6" r="1" />
               <circle cx="9.1" cy="3.1" r="1.15" />
               <circle cx="11.3" cy="2.3" r="1.3" />
               <circle cx="13.5" cy="2.2" r="1.45" />
               <circle cx="15.7" cy="3" r="1.75" />
-            </svg>
+            </svg> */}
             <span>BigFoot Drafting</span>
           </div>
 
@@ -51,11 +51,11 @@ export default function Hero() {
 
             <div className="bfd-hero__cta-row">
               <div className="bfd-hero__trail" aria-hidden="true">
-                <svg viewBox="0 0 70 28" fill="#B9682F">
+                {/* <svg viewBox="0 0 70 28" fill="#B9682F">
                   <ellipse cx="8" cy="20" rx="4" ry="5.5" opacity="0.5" />
                   <ellipse cx="26" cy="10" rx="4.4" ry="6" opacity="0.7" />
                   <ellipse cx="46" cy="17" rx="4.8" ry="6.5" opacity="0.85" />
-                </svg>
+                </svg> */}
               </div>
               <Link className="bfd-hero__cta" to="/contact">Start Your Project</Link>
             </div>
