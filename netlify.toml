@@ -7,7 +7,7 @@
 # Replace the URL below with your actual Render service URL once deployed.
 [[redirects]]
   from = "/api/*"
-  to = "https://bigfoot-drafting-server.onrender.com/"
+  to = "https://bigfoot-drafting-server.onrender.com/api/:splat"
   status = 200
   force = true
 
