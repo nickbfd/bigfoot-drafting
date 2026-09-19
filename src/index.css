@@ -825,6 +825,18 @@ body {
   margin: 0;
 }
 
+.bfd-services__item a {
+  color: var(--parchment);
+  font-weight: 600;
+  text-decoration: underline;
+  text-decoration-color: var(--rust);
+  text-underline-offset: 3px;
+}
+
+.bfd-services__item a:hover {
+  color: var(--rust-light);
+}
+
 .bfd-services__engineering {
   margin-top: 3rem;
   padding-top: 2.5rem;

@@ -51,9 +51,8 @@ export default function Footer() {
         <div>
           <h4>Contact</h4>
           <ul>
-            {/* Placeholders — replace with real contact details */}
-            <li><a href="mailto:hello@bigfootdrafting.com">hello@bigfootdrafting.com</a></li>
-            <li><a href="tel:+13605242793">(360) 524-2793</a></li>
+            <li><a href="mailto:Nick@bigfootdrafting.com">Nick@bigfootdrafting.com</a></li>
+            <li><a href="tel:+13605242793">360-524-2793</a></li>
             <li>Serving the Pacific Northwest</li>
           </ul>
         </div>
@@ -62,7 +61,7 @@ export default function Footer() {
       <div className="bfd-footer__bottom">
         <div className="bfd-footer__bottom-inner">
           <p>&copy; {year} BigFoot Drafting. All rights reserved.</p>
-          <p>Pacific Northwest Drafting Services</p>
+          <p>Licensed drafting services — Pacific Northwest</p>
         </div>
       </div>
     </footer>

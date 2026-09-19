@@ -2,14 +2,14 @@
   command = "npm run build"
   publish = "dist"
 
-# Forwards /api/* requests to your Render backend, so the browser sees
-# same-origin calls even though the API lives on a different domain.
-# Replace the URL below with your actual Render service URL once deployed.
-[[redirects]]
-  from = "/api/*"
-  to = "https://bigfoot-drafting-server.onrender.com/api/:splat"
-  status = 200
-  force = true
+# Contact form backend redirect — disabled for now while the Contact page
+# shows direct phone/email instead of the form. Uncomment and confirm the
+# URL when you switch ContactForm.jsx back on.
+# [[redirects]]
+#   from = "/api/*"
+#   to = "https://bigfoot-drafting-server.onrender.com/api/:splat"
+#   status = 200
+#   force = true
 
 # Client-side routing fallback so refreshing /services, /contact, etc.
 # doesn't 404 — react-router handles the route once index.html loads.
